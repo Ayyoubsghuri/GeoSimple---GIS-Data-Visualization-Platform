@@ -8,6 +8,9 @@ A modern, minimalist web application for visualizing spatial and statistical dat
 ![Leaflet](https://img.shields.io/badge/Leaflet-1.9.x-199900)
 ![PostGIS](https://img.shields.io/badge/PostGIS-3.x-336791)
 
+## screenshot
+![alt text](https://github.com/Ayyoubsghuri/GeoSimple---GIS-Data-Visualization-Platform/blob/main/Geosimple.png)
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
